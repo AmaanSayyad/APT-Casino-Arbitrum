@@ -396,9 +396,11 @@ flowchart LR
 
 ## 📚 DOCUMENTATION
 
+- **[Complete Tech Stack](TECH_STACK.md)** - Full breakdown of all technologies used
 - **[Live Features Setup Guide](LIVE_FEATURES_SETUP.md)** - Complete setup for Live Chat & Streaming
 - **[Migration Summary](LIVE_FEATURES_MIGRATION.md)** - Details on features ported from Polygon
 - **[Quick Start Guide](QUICK_START_LIVE_FEATURES.md)** - Get started with live features in 5 minutes
+- **[Architecture Documentation](APT_CASINO_ARCHITECTURE.md)** - System architecture details
 
 ## 🆕 RECENT UPDATES
 
@@ -430,7 +432,24 @@ This is not gambling. This is mathematics you can verify, luck you can own, comm
 
 ## 🔗 LINKS
 
+- **GitHub Repository:** https://github.com/AmaanSayyad/APT-Casino-Arbitrum
 - **Pitch Deck:** https://www.figma.com/deck/3TtaQDRChEZ6R2MhaKR94p/APT-Casino-Arbitrum
 - **Demo Video:** https://youtu.be/DiMBXt17iuw
 - **Pitch Video:** https://youtu.be/SMpQZryXl5U
-- **Live Demo:** 
+- **Live Website:** https://apt-casino-arbitrum1.vercel.app/
+
+## 🛠️ TECH STACK
+
+For a complete breakdown of all technologies, frameworks, and libraries used in this project, see **[TECH_STACK.md](TECH_STACK.md)**.
+
+**Quick Overview:**
+- **Frontend:** Next.js 15.3.3 + React 18.3.1
+- **Blockchain:** Wagmi + Viem + Ethers.js
+- **Smart Contracts:** Solidity 0.8.19 + Hardhat
+- **Randomness:** Chainlink VRF v2.5
+- **Network:** Arbitrum (Sepolia + One)
+- **Database:** Supabase (PostgreSQL) + Redis
+- **Streaming:** Livepeer
+- **3D Graphics:** Three.js + React Three Fiber
+- **State Management:** Redux Toolkit + React Query
+- **Styling:** Tailwind CSS + Material-UI + Styled Components
