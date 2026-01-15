@@ -106,7 +106,7 @@ sequenceDiagram
 - **Compounding multipliers** per safe reveal
 - **Player can cashout early** at any time
 
-### 🔵 Plinko
+### ⚪ Plinko
 - **Balls dropped through VRF-determined paths**
 - **Multipliers**: 0.2× → 100× depending on depth and slot
 
@@ -150,9 +150,9 @@ graph TB
     G --> J
     H --> L
     
-    classDef frontend fill:#f9f,stroke:#333,stroke-width:1px
-    classDef middleware fill:#bbf,stroke:#33f,stroke-width:1px
-    classDef blockchain fill:#bfb,stroke:#3f3,stroke-width:1px
+    classDef frontend fill:#2a2a2a,stroke:#666,stroke-width:1px
+    classDef middleware fill:#3a3a3a,stroke:#666,stroke-width:1px
+    classDef blockchain fill:#4a4a4a,stroke:#666,stroke-width:1px
     
     class A,B,C,D frontend
     class E,F,G,H middleware
@@ -204,11 +204,11 @@ flowchart TD
     B -->|9. Calculate Game Outcome| G[Game Logic]
     G -->|10. Display Result| A
     
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#33f,stroke-width:2px
-    style D fill:#bfb,stroke:#3f3,stroke-width:2px
-    style E fill:#bfb,stroke:#3f3,stroke-width:2px
-    style F fill:#fbb,stroke:#f33,stroke-width:2px
+    style A fill:#2a2a2a,stroke:#666,stroke-width:2px
+    style C fill:#3a3a3a,stroke:#666,stroke-width:2px
+    style D fill:#4a4a4a,stroke:#666,stroke-width:2px
+    style E fill:#4a4a4a,stroke:#666,stroke-width:2px
+    style F fill:#5a5a5a,stroke:#666,stroke-width:2px
 ```
 
 The randomness flow demonstrates how APT-Casino ensures provably fair outcomes:
@@ -298,7 +298,7 @@ All games use Chainlink VRF randomness with:
 ### 💬 Real-Time Live Chat
 Transform your casino into a social hub with integrated real-time messaging:
 
-- **🔴 Live Communication**: Real-time messaging powered by Supabase with WebSocket support
+- **⚡ Live Communication**: Real-time messaging powered by Supabase with WebSocket support
 - **👤 Wallet Identity**: Shows shortened wallet addresses (0x1234...5678) for privacy
 - **💾 Persistent History**: Chat messages stored and synced across all sessions
 - **📱 Responsive Widget**: Minimizable floating chat widget (bottom-right corner)
@@ -307,7 +307,7 @@ Transform your casino into a social hub with integrated real-time messaging:
 - **⚡ Real-time Updates**: Instant message delivery with automatic fallback polling
 
 **How to Use:**
-1. Click the purple/pink **"Live Chat"** button in the navbar (top-right)
+1. Click the **"Live Chat"** button in the navbar (top-right)
 2. Type your message and press Send
 3. See messages from all players in real-time
 
@@ -332,8 +332,8 @@ Watch and broadcast live casino gameplay with multi-source streaming support:
   - "How to Stream" guide modal
   - Responsive design (1/2/3 column grid)
 
-- **🔴 Live Indicators**: 
-  - Pulsing red dot for active streams
+- **📡 Live Indicators**: 
+  - Active stream indicators
   - Stream source badges (Livepeer/YouTube)
   - Interactive player controls
 
@@ -378,10 +378,10 @@ flowchart LR
     K --> F
     L --> F
     
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style E fill:#bbf,stroke:#33f,stroke-width:2px
-    style G fill:#bfb,stroke:#3f3,stroke-width:2px
-    style K fill:#fbb,stroke:#f33,stroke-width:2px
+    style A fill:#2a2a2a,stroke:#666,stroke-width:2px
+    style E fill:#3a3a3a,stroke:#666,stroke-width:2px
+    style G fill:#4a4a4a,stroke:#666,stroke-width:2px
+    style K fill:#5a5a5a,stroke:#666,stroke-width:2px
 ```
 
 ## 📚 DOCUMENTATION
