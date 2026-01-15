@@ -20,17 +20,6 @@ I was very annoyed of that's how Apt-Casino was born, gamblefi all in one platfo
 [![Livepeer](https://img.shields.io/badge/Streaming-Livepeer-00A55A)](https://livepeer.org/)
 [![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000)](https://vercel.com/)
 
-## 📋 TABLE OF CONTENTS
-
-- [Paradigm Shift](#-paradigm-shift-web3-gambling-reimagined)
-- [Core Innovations](#-core-technological-innovations)
-- [Game Suite](#-game-suite-cryptographically-secured-entertainment)
-- [Live Features](#-live-features-new) ⭐ NEW
-- [Technical Architecture](#️-technical-architecture)
-- [Development & Deployment](#-development--deployment)
-- [Security](#-cryptographic-security-measures)
-- [Documentation](#-documentation)
-- [Links](#-links)
 
 ## 🌟 PARADIGM SHIFT: WEB3 GAMBLING REIMAGINED
 
