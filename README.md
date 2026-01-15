@@ -1,6 +1,6 @@
 # 🎮 APT-Casino: A hyper-composable, Fully On-Chain, Provably-Fair Casino 
 
-A couple of days back, I was was on etherscan exploring some transactions and saw an advertisement of [https://stake.com/](url) which was giving 200% bonus on first deposit, I deposited 120 USDT into stake.com they gave 360 USDT as total balance in their controlled custodial wallet and when I started playing casino games I was shocked to see that I was only able to play with $1 per game and was unable to increase the betting amount beyond $1 and when I tried to explore and play other games on the platform the issue was persisting, I reached the customer support and got to know that this platform has cheated me under the name of wager limits as I was using the bonus scheme of 200%.
+A couple of days back, I was was on etherscan exploring some transactions and saw an advertisement of https://stake.com/ which was giving 200% bonus on first deposit, I deposited 120 USDT into stake.com they gave 360 USDT as total balance in their controlled custodial wallet and when I started playing casino games I was shocked to see that I was only able to play with $1 per game and was unable to increase the betting amount beyond $1 and when I tried to explore and play other games on the platform the issue was persisting, I reached the customer support and got to know that this platform has cheated me under the name of wager limits as I was using the bonus scheme of 200%.
 
 When I asked the customer support for refund they showed a mathematical equation which says if refund then I have to play $12,300 worth of gameplay and this was a big shock for me. Thereby, In the hope of getting the deposited money back, I played the different games of stake.com like roulette, mines, spin wheel, etc, the entire night and lost all the money and time.
 
@@ -30,7 +30,6 @@ I was very annoyed of that's how Apt-Casino was born, gamblefi all in one platfo
 - [Development & Deployment](#-development--deployment)
 - [Security](#-cryptographic-security-measures)
 - [Documentation](#-documentation)
-- [Recent Updates](#-recent-updates)
 - [Links](#-links)
 
 ## 🌟 PARADIGM SHIFT: WEB3 GAMBLING REIMAGINED
@@ -360,15 +359,6 @@ Watch and broadcast live casino gameplay with multi-source streaming support:
 4. **SocialFi Layer** → Enhanced on-chain player interactions
 5. **NFT Player Profiles** → "Luck Streaks" minted as on-chain reputation assets
 
-## 📱 CROSS-PLATFORM COMPATIBILITY
-
-The application is fully responsive and optimized for:
-- **Desktop**: Chrome, Firefox, Safari, Edge
-- **iOS Safari**: Full support with native-like experience
-- **Android Chrome**: Full support with optimized UI
-- **Hardware wallets**: Ledger, Trezor integration
-- **Software wallets**: MetaMask, Rainbow, Trust Wallet, etc.
-
 ### 🧭 User Journey Flow
 
 ```mermaid
@@ -396,27 +386,9 @@ flowchart LR
 
 ## 📚 DOCUMENTATION
 
-- **[Complete Tech Stack](TECH_STACK.md)** - Full breakdown of all technologies used
 - **[Live Features Setup Guide](LIVE_FEATURES_SETUP.md)** - Complete setup for Live Chat & Streaming
 - **[Migration Summary](LIVE_FEATURES_MIGRATION.md)** - Details on features ported from Polygon
 - **[Quick Start Guide](QUICK_START_LIVE_FEATURES.md)** - Get started with live features in 5 minutes
-- **[Architecture Documentation](APT_CASINO_ARCHITECTURE.md)** - System architecture details
-
-## 🆕 RECENT UPDATES
-
-### v2.0 - Live Features Release
-- ✅ Added real-time Live Chat widget with Supabase
-- ✅ Integrated Live Streaming page (Livepeer, YouTube, HLS)
-- ✅ Cross-chain chat & streams (shared with Polygon)
-- ✅ Live metrics and YouTube metadata
-- ✅ Mobile-responsive chat widget
-- ✅ Guest mode for non-connected users
-
-### Key Technologies Added
-- **Supabase**: Real-time database for chat & streams
-- **Livepeer**: Decentralized video streaming
-- **@livepeer/react**: Video player components
-- **YouTube oEmbed API**: Live stream metadata
 
 ## 🌀 FINAL WORD
 
@@ -429,14 +401,6 @@ With the addition of Live Chat and Streaming, APT-Casino becomes a **complete so
 - 🌐 Connect across multiple chains
 
 This is not gambling. This is mathematics you can verify, luck you can own, community you can build, and trust you don't need.
-
-## 🔗 LINKS
-
-- **GitHub Repository:** https://github.com/AmaanSayyad/APT-Casino-Arbitrum
-- **Pitch Deck:** https://www.figma.com/deck/3TtaQDRChEZ6R2MhaKR94p/APT-Casino-Arbitrum
-- **Demo Video:** https://youtu.be/DiMBXt17iuw
-- **Pitch Video:** https://youtu.be/SMpQZryXl5U
-- **Live Website:** https://apt-casino-arbitrum1.vercel.app/
 
 ## 🛠️ TECH STACK
 
@@ -453,3 +417,10 @@ For a complete breakdown of all technologies, frameworks, and libraries used in 
 - **3D Graphics:** Three.js + React Three Fiber
 - **State Management:** Redux Toolkit + React Query
 - **Styling:** Tailwind CSS + Material-UI + Styled Components
+
+## 🔗 LINKS
+
+- **Pitch Deck:** https://www.figma.com/deck/3TtaQDRChEZ6R2MhaKR94p/APT-Casino-Arbitrum
+- **Demo Video:** https://youtu.be/DiMBXt17iuw
+- **Pitch Video:** https://youtu.be/SMpQZryXl5U
+- **Live Demo:** https://apt-casino-arbitrum1.vercel.app/
